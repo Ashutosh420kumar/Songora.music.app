@@ -1,0 +1,20 @@
+<svg width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.83 0 0 0.83 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 -5.5 0)" >
+<path style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-6.5, -12)" d="M 5.5 9 L 2 9 C 1.1715728752538097 9 0.5 9.67157287525381 0.5 10.5 L 0.5 13.5 C 0.5 14.32842712474619 1.1715728752538097 15 2 15 L 5.5 15 L 11.647 21.146 C 11.789979049547131 21.288533490814068 12.0046477252183 21.331095833029032 12.191193062783544 21.25389711771774 C 12.377738400348788 21.17669840240645 12.499553948513345 20.99488760648221 12.5 20.793 L 12.5 3.207 C 12.499553948513343 3.0051123935177895 12.377738400348788 2.8233015975935505 12.191193062783544 2.7461028822822593 C 12.004647725218298 2.668904166970969 11.789979049547131 2.7114665091859345 11.647 2.854 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 9.75 0)" >
+<path style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-21.75, -12)" d="M 20 4 C 22.23119737106489 6.06192413286428 23.499932368765993 8.961945879623768 23.499932368765993 11.999999999999996 C 23.499932368765997 15.038054120376227 22.23119737106489 17.93807586713572 20.000000000000004 20" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 6.99 0)" >
+<path style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-18.99, -12)" d="M 17.5 6 C 19.375525094458517 7.4248034201293684 20.476905551658675 9.644653068875844 20.476905551658675 11.999999999999998 C 20.476905551658675 14.355346931124153 19.37552509445852 16.575196579870628 17.500000000000004 17.999999999999996" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 4.5 0)" >
+<path style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-16.5, -12)" d="M 15.5 8.5 C 18.177 10.447 18.169 13.559999999999999 15.5 15.5" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
